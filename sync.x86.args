@@ -17,7 +17,6 @@ use_openh264 = true
 chrome_pgo_phase = 1
 full_wpo_on_official = true
 is_official_build = true
-current_cpu = "x64"
 enable_resource_whitelist_generation = false
 visual_studio_version = "2017"
 blink_symbol_level = 0
